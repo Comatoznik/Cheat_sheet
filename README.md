@@ -15,7 +15,7 @@
 ![](https://github.com/Comatoznik/Cheat_sheet/blob/main/image.png)
 ![](https://github.com/Comatoznik/Cheat_sheet/blob/main/image%20(1).png)
 
-## Работа проекта при перевёрнутом экране
+## Работа приложения при перевёрнутом экране
 ![](https://github.com/Comatoznik/Cheat_sheet/blob/main/image%20(2).png)
 ## Заключение
 Вы всегда можете написать нам и уточнить интересующий вас вопрос по поводу работы приложения. Также с радостью выслушаем ваши пожелания. Пишите на почту: mobile_apps@gmail.com
