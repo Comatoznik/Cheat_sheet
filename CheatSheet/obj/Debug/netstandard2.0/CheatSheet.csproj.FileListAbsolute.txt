@@ -1,0 +1,15 @@
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\bin\Debug\netstandard2.0\CheatSheet.deps.json
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\bin\Debug\netstandard2.0\CheatSheet.dll
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\bin\Debug\netstandard2.0\ref\CheatSheet.dll
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\bin\Debug\netstandard2.0\CheatSheet.pdb
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.AssemblyInfoInputs.cache
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.AssemblyInfo.cs
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.csproj.CoreCompileInputs.cache
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.dll
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\ref\CheatSheet.dll
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.pdb
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\CheatSheet.csprojAssemblyReference.cache
+C:\Users\Comatoznik\source\repos\CheatSheet\CheatSheet\CheatSheet\obj\Debug\netstandard2.0\Page1.xaml.g.cs

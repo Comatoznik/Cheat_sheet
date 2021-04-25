@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CheatSheet.MainPage">
+
+    <StackLayout BackgroundColor="#ABC">
+        <ListView x:Name="CommiesList"
+              HasUnevenRows="True"
+              ItemsSource="{Binding Commies}"
+                  SeparatorColor="Aqua"
+                  ItemSelected="CommiesList_ItemSelected"
+                  >
+            
+            <ListView.Header>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Шпаргалка 'Правители СССР' " FontSize="25" Padding="30" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                           BackgroundColor="#c5cae9" HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+            </ListView.Header>
+           
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Height="100" 
+                        Text="{Binding Surname}"
+                        
+                        Detail="{Binding Years, StringFormat='Правил: {0}'}"
+                        TextColor="Red"
+                        DetailColor="Green"
+                        />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
