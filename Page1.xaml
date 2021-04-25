@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CheatSheet.Page1">
+    <ContentPage.Content >
+        <ScrollView>
+            <StackLayout >
+            <Label x:Name="one" Text="{StaticResource Key=Lenin}" IsVisible="false" Margin="15, 15, 15, 15"
+                VerticalOptions="Start" FontSize="18" FontFamily="Verdana"
+                HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="two" Text="{StaticResource Key=Stalin}" IsVisible="false" Margin="15, 15, 15, 15"
+                VerticalOptions="Start" FontSize="18" FontFamily="Verdana"
+                HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="three" Text="{StaticResource Key=Nikita}" IsVisible="false" Margin="15, 15, 15, 15"
+                VerticalOptions="Start" FontSize="18" FontFamily="Verdana"
+                HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="four" Text="{StaticResource Key=Brezhnev}" IsVisible="false" Margin="15, 15, 15, 15"
+                VerticalOptions="Start" FontSize="18" FontFamily="Verdana"
+                HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="five" Text="{StaticResource Key=Gorbachev}" IsVisible="false" Margin="15, 15 ,15, 15"
+                VerticalOptions="Start" FontSize="18" FontFamily="Verdana"
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
