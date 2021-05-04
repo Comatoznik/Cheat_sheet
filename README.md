@@ -12,7 +12,7 @@
 - Android 8.0 и выше
 - Разрешение экрана не менее 1280x720
 ## Результаты работы с программой
-![](https://github.com/Comatoznik/Cheat_sheet/blob/main/image.png)
+![](https://github.com/Comatoznik/Cheat_sheet/blob/main/UYEM3jo6pi0.jpg)
 ![](https://github.com/Comatoznik/Cheat_sheet/blob/main/image%20(1).png)
 
 ## Работа приложения при перевёрнутом экране
